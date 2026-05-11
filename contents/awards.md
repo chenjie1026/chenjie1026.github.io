@@ -1,12 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 首届中国科协青年人才托举工程博士生专项, 2024-2026.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 《中国电机工程学报》高影响力论文, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 第八届CEEPE最佳学生论文, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 《可再生能源》优秀审稿人, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 国家奖学金, 本科@2020 博士@2024&2025.

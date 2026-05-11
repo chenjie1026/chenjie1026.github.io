@@ -1,16 +1,14 @@
 
 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
+#### 工作经历
+博士后@上海交通大学 2025.11-至今 合作导师：刘付成教授
+
+#### 教育背景
+博士@上海交通大学 2021.9-2025.12 (上海交通大学优秀博士学位论文提名).\
+本科@上海交通大学 2017.9-2021.6 (上海交通大学优异学士学位论文).
 
 #### 联系方式
 
 Email: chenjie壹零贰陆[at]sjtu.edu.cn
-
-#### 教育背景
-博士@上海交通大学 2021-2025 (上海交通大学优秀博士学位论文提名)/
-本科@上海交通大学 2017-2021 (上海交通大学优异学士学位论文)
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
