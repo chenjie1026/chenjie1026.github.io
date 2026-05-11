@@ -1,9 +1,11 @@
-
 #### 期刊论文（一作/通讯）
+1. J. Wang and <strong>J. Chen</strong>, "A Low-Cost Generalized Feedforward Strategy for the Charge Modulated LLC Converter," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2025.3639447.  [通讯作者，中科院二区]
 
-- <strong>J. Chen</strong> et al., "A Novel Simplified Time Domain Analysis-Based Synchronous Rectification Strategy for LLC Converter Featuring Real-Time Full-Range Operation," in <strong>IEEE Transactions on Power Electronics</strong>, vol. 40, no. 4, pp. 4997-5013, April 2025, doi: 10.1109/TPEL.2024.3515155. [唯一一作，中科院一区]
+1. J. Wang, T. Ge and <strong>J. Chen</strong>, "A Novel Online Operation Mode Recognition Strategy of LLC Resonant Converter," in IEEE Transactions on Power Electronics, vol. 41, no. 4, pp. 4612-4617, April 2026, doi: 10.1109/TPEL.2025.3647778. [通讯作者，中科院一区]
 
-- <strong>J. Chen</strong> et al., "A Novel Modulation Method for LLC Converter-Based Semi-Single-Stage Isolated Inverter With Hybrid Sliding Mode Control," in <strong>IEEE Transactions on Power Electronics</strong>, vol. 40, no. 1, pp. 704-715, Jan. 2025, doi: 10.1109/TPEL.2024.3477978.[唯一一作，中科院一区]
+1. <strong>J. Chen</strong> et al., "A Novel Simplified Time Domain Analysis-Based Synchronous Rectification Strategy for LLC Converter Featuring Real-Time Full-Range Operation," in <strong>IEEE Transactions on Power Electronics</strong>, vol. 40, no. 4, pp. 4997-5013, April 2025, doi: 10.1109/TPEL.2024.3515155. [唯一一作，中科院一区]
+
+1. <strong>J. Chen</strong> et al., "A Novel Modulation Method for LLC Converter-Based Semi-Single-Stage Isolated Inverter With Hybrid Sliding Mode Control," in <strong>IEEE Transactions on Power Electronics</strong>, vol. 40, no. 1, pp. 704-715, Jan. 2025, doi: 10.1109/TPEL.2024.3477978.[唯一一作，中科院一区]
 
 - <strong>J. Chen</strong>, C. Wu, J. Li, Z. Shao, J. Wang and Y. Wang, "A Low Distortion Collaborative Modulation for Zero-Crossing Distortion Pseudo DC Link Single-Stage Isolated Inverter," in <strong>IEEE Transactions on Power Electronics</strong>, vol. 39, no. 8, pp. 9132-9137, Aug. 2024, doi: 10.1109/TPEL.2024.3402394.[唯一一作，中科院一区]
 
@@ -19,7 +21,8 @@
 
 
 #### 会议论文
-- <strong>J. Chen</strong> and Y. Wang, "Discussion on the Dynamic Performance of LLC Resonant Converter: A Nonlinear Perspective," 2025 International Conference on New Power System Technology (PowerCon), Hefei, China, 2025, pp. 1-5, doi: 10.1109/PowerCon66300.2025.11295357. keywords: {Analytical models;Power system dynamics;Resonant converters;Capacitance;Nonlinear dynamical systems;Transient analysis;Time-domain analysis;LLC converter;state plane analysis;dynamic performance;time domain analysis},
+- <strong>J. Chen</strong> and Y. Wang, "Discussion on the Dynamic Performance of LLC Resonant Converter: A Nonlinear Perspective," 2025 International Conference on New Power System Technology (PowerCon), Hefei, China, 2025, pp. 1-5, doi: 10.1109/PowerCon66300.2025.11295357. 
 
 - <strong>J. Chen</strong>, Y. Wang, J. Wang and Z. Din, "A Novel Feedforward Strategy for the Charge-Modulated LLC Resonant Converter," 2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE), Wuxi, China, 2025, pp. 156-161, doi: 10.1109/CEEPE64987.2025.11033919. 
+
 - <strong>J. Chen</strong>, X. Fei, H. Li and Y. Wang, "An 1.5-kW Dual-Stage Converter with Combined Control for V2G Application," 2021 IEEE 12th Energy Conversion Congress & Exposition - Asia (ECCE-Asia), Singapore, Singapore, 2021, pp. 1408-1413, doi: 10.1109/ECCE-Asia49820.2021.9478991. 
