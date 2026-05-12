@@ -1,3 +1,7 @@
+#### 科技奖励
+
+- 日内瓦国际发明展（International Exhibition of Inventions of Geneva）金奖, 2026.
+
 #### 人才/托举工程奖励
 
 - 首届中国科协青年人才托举工程博士生专项, 2024-2026.
