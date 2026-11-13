@@ -26,3 +26,8 @@
 - <strong>J. Chen</strong>, Y. Wang, J. Wang and Z. Din, "A Novel Feedforward Strategy for the Charge-Modulated LLC Resonant Converter," 2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE), Wuxi, China, 2025, pp. 156-161, doi: 10.1109/CEEPE64987.2025.11033919. 
 
 - <strong>J. Chen</strong>, X. Fei, H. Li and Y. Wang, "An 1.5-kW Dual-Stage Converter with Combined Control for V2G Application," 2021 IEEE 12th Energy Conversion Congress & Exposition - Asia (ECCE-Asia), Singapore, Singapore, 2021, pp. 1408-1413, doi: 10.1109/ECCE-Asia49820.2021.9478991. 
+
+#### 专著
+- <strong>陈捷</strong> 等, 《电力电子技术MATLAB/Simulink建仿真：原理、方法与实践》出版社编辑中. 
+
+- <strong>J. Chen</strong>等,  "State-Plane-based Modeling and Control of LLC Resonant Converters for Spacecraft Power Systems" 出版社编辑中.
