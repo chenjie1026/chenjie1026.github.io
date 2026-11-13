@@ -25,3 +25,12 @@
 - 上海交通大学优异学士学位论文（前1%）, 2021.
 
 - 国家奖学金, 本科@2020 博士@2024&2025.
+
+#### 学术任职
+- 《Power and Energy Future》青年编委.
+
+- 2027 International Conference on Intelligent Science and Energy, 技术程序委员会委员.
+
+- 2026空天前沿大会组织委员会委员.
+
+- 第三届空间信息技术大会分会场组织委员会委员.
